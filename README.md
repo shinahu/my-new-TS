@@ -1,1 +1,2 @@
-# my-new-TS
+# MyFirst Type Script
+ MyFirst Type Script
